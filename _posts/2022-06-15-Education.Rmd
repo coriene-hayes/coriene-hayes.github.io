@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Institutional Reporting Director"
 author: "Coriene Hayes"
 date: '2022-05-11'
